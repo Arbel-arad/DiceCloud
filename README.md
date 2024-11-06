@@ -44,7 +44,7 @@ straightforward and it should work on Linux, Windows, and Mac.
 You'll need to have installed:
 
 - [git](https://www.atlassian.com/git/tutorials/install-git)
-- [Meteor](https://www.meteor.com/install)
+- [Meteor](https://docs.meteor.com/about/install.html)
 
 Then, it's just a matter of cloning this repository into a folder, and running
 `meteor` in the app directory.
